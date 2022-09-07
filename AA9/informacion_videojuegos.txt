@@ -1,0 +1,6 @@
+Videojuego [videojuego=DAR SOULS 3, cantidad_registro=10000, precio_unitario=5]50000euros
+Videojuego [videojuego=THE LAST OF US, cantidad_registro=50000, precio_unitario=10]500000euros
+Videojuego [videojuego=FIFA 2022, cantidad_registro=60000, precio_unitario=15]900000euros
+Videojuego [videojuego=MARIO BROSS, cantidad_registro=45000, precio_unitario=1]45000euros
+Videojuego [videojuego=DOOM 2, cantidad_registro=100000, precio_unitario=1]100000euros
+Videojuego [videojuego=HORIZON, cantidad_registro=50000, precio_unitario=5]250000euros
