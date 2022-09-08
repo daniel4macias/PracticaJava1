@@ -1,0 +1,105 @@
+import java.time.LocalDate
+
+def LocalDate fecha_actual 
+def String dia
+
+pipeline
+{
+    agent any
+    stages
+    {
+        stage('Lunes')
+        {
+            steps
+            {
+                script
+                {
+                    fecha_actual = LocalDate.now()
+                    print "Fecha Actual: " + fecha_actual
+                    
+                    dia = "Lunes"
+                    print dia
+                    print "Estaba leyendo un libro de pulgas y aparecio Messi"
+                }
+               
+            }
+            
+        }
+        
+        
+         stage('Martes')
+        {
+            steps
+            {
+                script
+                {
+                  dia = "Martes"
+                    print dia
+                    print "¿Por que los politicos son una prueba de la reencarnacion?"
+                    print "-Porque nadie puede hacerse tan retorcido en una sola vida."  
+                }
+               
+            }
+            
+        }
+        
+        
+         stage('Miercoles')
+        {
+            steps
+            {
+                script
+                {
+                    dia = "Miercoles"
+                    print dia
+                    print "- Doctor, doctor, soy bipolar."
+                    print "- Cálmese, anímese, cálmese, anímese..."
+                }
+               
+            }
+            
+        }
+        
+        
+         stage('Jueves')
+        {
+            steps
+            {
+                script
+                {
+                    dia = "Jueves"
+                    print dia
+                    print "¿Qué es una mujer objeto?"
+                    print "Una instancia de una mujer con clase."
+                }
+               
+            }
+            
+        }
+        
+        
+        stage('Viernes')
+        {
+            steps
+            {
+                script
+                {
+                    dia = "Viernes"
+                    print dia
+                    print "¿Por qué no tiran bombas a África?"
+                    print "Porque no encuentran el blanco."
+                }
+               
+            }
+            
+        }
+        
+      
+        
+    }
+    
+    
+    
+    
+    
+}
