@@ -1,0 +1,20 @@
+import java.time.LocalDate
+
+pipeline
+{
+    agent any
+    stages
+    {
+        stage('Mensaje de Bienvenida')
+        {
+            steps
+            {
+                script
+                {
+                    println "Hola Mundo! El dia de hoy es " + LocalDate.now()
+                    println "Este curso me hizo aprender bastante programacion en Java"
+                }
+            }
+        }
+    }
+}
