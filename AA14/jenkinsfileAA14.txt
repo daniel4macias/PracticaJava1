@@ -1,0 +1,24 @@
+pipeline {
+    agent any
+    stages 
+    {
+        
+        stage('Chocolates y su Cantidad Producida')
+        {
+            
+            steps
+            {
+                script
+                {
+                    println "Chocolate Blanco" + "  " + "1000"
+                    println "Chocolate Negro" + "  " + "1500"
+                    println "Chocolate con Almendras" + "  " + "1200"
+                    println "Chocolate con Castanias de Caju" + "  " + "1300"
+                    println "Chocolate en Rama" + "  " + "100"
+                    println "Chocolate con 70% de Cacao" + "  " + "1500"
+
+                }
+            }
+        }
+    }
+}

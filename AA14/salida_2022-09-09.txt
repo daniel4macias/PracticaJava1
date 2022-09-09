@@ -1,0 +1,6 @@
+Nombre: Chocolate Blanco;Cantidad Producida: 1000
+Nombre: Chocolate Negro;Cantidad Producida: 1500
+Nombre: Chocolate con Almendras;Cantidad Producida: 1200
+Nombre: Chocolate con Castanias de Caju;Cantidad Producida: 1300
+Nombre: Chocolate en Rama;Cantidad Producida: 100
+Nombre: Chocolate con 70% de Cacao;Cantidad Producida: 1500
