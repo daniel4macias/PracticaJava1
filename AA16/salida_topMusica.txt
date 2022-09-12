@@ -1,0 +1,31 @@
+Mi nombre es Daniel Castro y mi id es 125
+Nombre Cancion: ‘Tusa’  Cantantes:  KAROL G con Nicki Minaj		  Recaudacion 2000000.0
+Nombre Cancion: ‘Se iluminaba’  Cantantes:  Fred De Palma y Ana Mena		  Recaudacion 4000000.0
+Nombre Cancion: ‘La Jeepeta Remix’  Cantantes:  Nio Garcia, Anuel AA, Myke Towers, Brray y Juanka	  Recaudacion 6000000.0
+Nombre Cancion: ‘Caramelo’  Cantantes:  Ozuna   Recaudacion 20000.0
+Nombre Cancion: ‘La Curiosidad’  Cantantes:  Jay Wheeler, DJ Nelson y Myke Towers   Recaudacion 1.0E7
+Nombre Cancion: ‘Mil Tequilas’  Cantantes:  Chema Rivas   Recaudacion 1.2E7
+Nombre Cancion: ‘Morado’  Cantantes:  J Balvin	  Recaudacion 2.0E7
+Nombre Cancion: ‘Safaera’  Cantantes:  Bad Bunny, Jowell Randy y Ñengo Flow	  Recaudacion 1.5E7
+Nombre Cancion: ‘Relación’  Cantantes:  Sech	  Recaudacion 2000000.0
+Nombre Cancion: ‘Dance Monkey’  Cantantes:  Tones And I		  Recaudacion 2.0E7
+Cantante: Bad Gyal
+Cantante: Beret
+Cantante: Aitana
+Cantante: Omar Montes
+Cantante: Rosalía
+Cantante: Rvfv
+Cantante: Lérica
+Cantante: C. Tangana
+Cantante: Juan Magán
+Cantante: Ana Mena
+Cantante: Rauw Alejandro
+Cantante: Bad Bunny
+Cantante: Myke Towers
+Cantante: J Balvin
+Cantante: Anuel AA
+Cantante: Aitana
+Cantante: KAROL G
+Cantante: María Becerra
+Cantante: Dua Lipa
+Cantante: Nicki Nicole
