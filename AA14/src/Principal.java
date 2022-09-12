@@ -114,8 +114,14 @@ public class Principal extends Chocolate implements ProduccionActiva {
 		}
 		else
 		{
-			System.out.println("Se le muestra en el txt los distintos tipos de chocolate y las cantidades fabricadas. ¡Un saludo!");
+			System.out.println("Se le muestra en el txt los distintos tipos de chocolate y las cantidades fabricadas en el dia de hoy. ¡Un saludo!");
 			String nombreArchivo = "salida_"+LocalDate.now()+".txt"; 
+			System.out.println(Blanco.nombre + " " + Blanco.cantidad);
+			System.out.println(Negro.nombre + " " + Negro.cantidad);
+			System.out.println(Almendrado.nombre + " " + Almendrado.cantidad);
+			System.out.println(Castanias.nombre + " " + Castanias.cantidad);
+			System.out.println(Rama.nombre + " " + Rama.cantidad);
+			System.out.println(Cacao.nombre + " " + Cacao.cantidad);
 			try
 			{
 			File archivo = new File(nombreArchivo);
